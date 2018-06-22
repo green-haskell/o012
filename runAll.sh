@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#ITEMS=(assocCollections coll-Heaps coll-Sets seqs)
-ITEMS=(seqs)
+ITEMS=(assocCollections coll-Heaps coll-Sets seqs)
+#ITEMS=(seqs)
 
 OPT_OPTIONS=(O0 O1 O2)
 
